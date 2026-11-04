@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "JimanMc-mMxj.aternos.me:59322",
+    "port": 59322,
     "version": "",
     "try-creative": false
   },
